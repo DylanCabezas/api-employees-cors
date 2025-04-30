@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-host_name = "3.89.96.227" # IPv4 privada de "MV Bases de Datos"
+host_name = "172.31.31.107" # IPv4 privada de "MV Bases de Datos"
 port_number = "8005"
 user_name = "root"
 password_db = "utec"
